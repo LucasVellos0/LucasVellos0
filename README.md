@@ -1,16 +1,35 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-<!--
-**LucasVellos0/LucasVellos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Bernardo+Velloso;Tenho+20+anos;Sou+de+Joinville,Sc;Trabalho+na+Multiplike;Seja+Bem+Vindo!;+;%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🗯️ Perfil criado afim de estudo e práticas para o Curso de Engenharia De Software 🗯️
+- :mortar_board: Programador de Sistemas - Senac :mortar_board:
+- :mortar_board: Programador Web - Senac :mortar_board:
+- :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
+- :mortar_board:Eng. de Software - Católica :mortar_board:
+- :briefcase: Aux. de TI Pleno na Multiplike Gestora de Recursos :briefcase:
+
+
+<div align="center">  
+    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBernard0&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> 
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBernard0&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/>
+</div>
+
+## Main skills:
+
+ ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LucasBernard0&label=Profile+Views&color=A020F0&style=flat" alt="Profile views">
+  </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
